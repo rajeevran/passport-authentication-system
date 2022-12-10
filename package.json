@@ -16,7 +16,7 @@
     "country-state-city": "^1.0.0",
     "csvtojson": "^2.0.8",
     "debug": "~2.6.9",
-    "express": "~4.16.0",
+    "express": "~4.17.3",
     "express-fileupload": "^1.1.1-alpha.1",
     "express-session": "^1.17.0",
     "fcm-node": "^1.5.2",
